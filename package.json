@@ -160,5 +160,5 @@
     "react-is": "npm:react-is",
     "jsdom": "22.1.0"
   },
-  "packageManager": "yarn@1.22.22"
+  "packageManager": "npm@11.12.1"
 }
