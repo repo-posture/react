@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "experimental",
-    "react-dom": "experimental",
+    "react-dom": "19.2.6",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
