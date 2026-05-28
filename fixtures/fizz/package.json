@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "prettier": "1.19.1"
+    "prettier": "3.8.3"
   },
   "scripts": {
     "predev": "cp -r ../../build/oss-experimental/* ./node_modules/ && rm -rf node_modules/.cache;",
