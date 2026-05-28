@@ -30,7 +30,7 @@
     "@playwright/test": "^1.56.1",
     "@use-gesture/react": "^10.2.22",
     "hermes-eslint": "^0.25.0",
-    "hermes-parser": "^0.25.0",
+    "hermes-parser": "^0.36.1",
     "invariant": "^2.2.4",
     "json5": "^2.2.3",
     "lru-cache": "^11.2.2",
