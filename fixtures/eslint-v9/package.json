@@ -11,6 +11,6 @@
     "lint": "tsc --noEmit && eslint index.js --report-unused-disable-directives"
   },
   "devDependencies": {
-    "typescript": "^5.4.3"
+    "typescript": "^6.0.3"
   }
 }
