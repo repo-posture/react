@@ -82,7 +82,7 @@
     "glob-stream": "^6.1.0",
     "google-closure-compiler": "^20230206.0.0",
     "gzip-size": "^5.1.1",
-    "hermes-eslint": "^0.32.0",
+    "hermes-eslint": "^0.36.1",
     "hermes-parser": "^0.32.0",
     "jest": "^29.4.2",
     "jest-cli": "^29.4.2",
