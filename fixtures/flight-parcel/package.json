@@ -29,7 +29,7 @@
     "parcel": "canary",
     "process": "^0.11.10",
     "react": "experimental",
-    "react-dom": "experimental",
+    "react-dom": "19.2.6",
     "react-server-dom-parcel": "experimental",
     "rsc-html-stream": "^0.0.4"
   }
