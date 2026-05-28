@@ -96,7 +96,7 @@
     "ncp": "^2.0.0",
     "prettier": "^3.3.3",
     "prettier-2": "npm:prettier@^2",
-    "pretty-format": "^29.4.1",
+    "pretty-format": "^29.7.0",
     "prop-types": "^15.6.2",
     "random-seed": "^0.3.0",
     "react-lifecycles-compat": "^3.0.4",
