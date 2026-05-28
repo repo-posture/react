@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "react": "0.14",
+    "react": "0.15.0-alpha.1",
     "react-dom": "0.14"
   }
 }
