@@ -14,7 +14,7 @@
     "react": "experimental",
     "react-dom": "experimental",
     "undici": "^5.20.0",
-    "webpack-sources": "^3.2.0"
+    "webpack-sources": "^3.5.0"
   },
   "scripts": {
     "predev": "cp -r ../../build/oss-experimental/* ./node_modules/ && rm -rf node_modules/.cache;",
