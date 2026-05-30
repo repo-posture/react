@@ -11,7 +11,7 @@
     "concurrently": "^7.3.0",
     "nodemon": "^2.0.19",
     "prompts": "^2.4.2",
-    "react": "experimental",
+    "react": "19.2.6",
     "react-dom": "experimental",
     "undici": "^5.20.0",
     "webpack-sources": "^3.2.0"
