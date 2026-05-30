@@ -109,7 +109,7 @@
     "shelljs": "^0.8.5",
     "signedsource": "^2.0.0",
     "targz": "^1.0.1",
-    "through2": "^3.0.1",
+    "through2": "^4.0.2",
     "tmp": "^0.1.0",
     "to-fast-properties": "^2.0.0",
     "tsup": "^8.4.0",
