@@ -7,7 +7,7 @@
     "babel-loader": "^8.1.0",
     "react": "^19.0.0",
     "react-art": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react-dom": "^19.2.6",
     "webpack": "^1.14.0"
   },
   "scripts": {
