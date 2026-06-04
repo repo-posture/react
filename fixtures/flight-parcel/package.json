@@ -28,7 +28,7 @@
     "express": "^4.18.2",
     "parcel": "canary",
     "process": "^0.11.10",
-    "react": "experimental",
+    "react": "19.2.7",
     "react-dom": "experimental",
     "react-server-dom-parcel": "experimental",
     "rsc-html-stream": "^0.0.4"
