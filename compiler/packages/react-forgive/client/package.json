@@ -14,7 +14,7 @@
     "directory": "compiler/packages/react-forgive"
   },
   "dependencies": {
-    "vscode-languageclient": "^9.0.1"
+    "vscode-languageclient": "^10.0.0"
   },
   "devDependencies": {
     "@types/vscode": "^1.95.0"
