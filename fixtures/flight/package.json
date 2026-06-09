@@ -52,7 +52,7 @@
     "react-dom": "experimental",
     "react-refresh": "^0.11.0",
     "react-server-dom-webpack": "experimental",
-    "resolve": "^1.20.0",
+    "resolve": "^1.22.12",
     "resolve-url-loader": "^4.0.0",
     "sass-loader": "^12.3.0",
     "semver": "^7.3.5",
